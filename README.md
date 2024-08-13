@@ -39,8 +39,8 @@
     <!-- 2 -->
     <td align="left">
       <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/express-js.png" alt="Express.js" style="border-radius: 20%;" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/Ahmadjajja/Ahmadjajja/main/Images/node-js.webp" alt="Nodejs" style="border-radius: 20%;" width="60" height="60"/>
-      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/mongo-db.png" alt="mongodb" style="border-radius: 20%;" width="60" height="60"/>       
+      <img src="https://raw.githubusercontent.com/Ahmadjajja/Ahmadjajja/main/Images/node-js.webp" alt="Nodejs" style="border-radius: 20%;" width="40" height="40"/>
+      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/mongo-db.png" alt="mongodb" style="border-radius: 20%;" width="40" height="40"/>       
     </td>
     <!-- 3 -->
     <td align="left">
@@ -71,17 +71,20 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <!-- 2 -->
-  <a href="https://arifmirza.netlify.app/" target = "_blank">
-   <a href="https://arifmirza.netlify.app/" target = "_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website" />
-  </a>
-  </a>
+ 
 
   <!-- 3 -->
   <a href="mailto:arifmirza3332@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
+  <!-- 4 -->
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-arif-mirza-1185362b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-arif-mirza-1185362b8/" height="30" width="40" /></a>
+  <!-- 5 -->
+  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100046615396855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100046615396855" height="30" width="40" /></a>
+  <!-- 6 -->
+  <a href="https://instagram.com/arifmirza3332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arifmirza3332" height="30" width="40" /></a>
+  <!-- 7 -->
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arif-mirza&show_icons=true&locale=en&layout=compact" alt="arif-mirza" /></p>
