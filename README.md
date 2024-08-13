@@ -5,84 +5,48 @@
 
 - I’m currently working on **Web Development and mobile development**
 
--  I’m currently learning **React**
+- I’m currently learning **React**
 
--  All of my projects are available at [https://arifmirza.netlify.app/](https://arifmirza.netlify.app/)
+- All of my projects are available at [https://arifmirza.netlify.app/](https://arifmirza.netlify.app/)
 
--  How to reach me **mirzaarif919@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- Add social media links here if needed -->
-</p>
+- How to reach me **mirzaarif919@gmail.com**
 
 <br>
 
 <h3 align="left"><b>Tech Stack and Tools:</b></h3>
 
-<table align="center">
+<br>
+
+<table>
   <tr>
-    <td align="center" style="padding=10px;">
-      <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" style="border-radius: 20%;" width="120" height="120"/> 
-      </a> 
-    </td>
-    <td align="center" style="padding=10px;">
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="border-radius: 20%;" width="120" height="120"/> 
-      </a> 
-    </td>
-    <td align="center" style="padding=10px;">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="border-radius: 20%;" width="120" height="120"/> 
-      </a> 
-    </td>
-    <td align="center" style="padding=10px;">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="border-radius: 20%;" width="120" height="120"/> 
-      </a> 
-    </td>
+    <td align="center" width="33%"><strong>Frontend</strong></td>
+    <td align="center" width="33%"><strong>Languages</strong></td>
+    <td align="center" width="33%"><strong>Others</strong></td>
   </tr>
   <tr>
-    <td align="center" style="padding=10px;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="border-radius: 20%;" width="120" height="120"/> 
-      </a> 
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     </td>
-    <td align="center" style="padding=10px;">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="border-radius: 20%;" width="120" height="120"/> 
-      </a> 
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     </td>
-    <td align="center" style="padding=10px;">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="border-radius: 20%;" width="120" height="120"/> 
-      </a> 
-    </td>
-    <td align="center" style="padding=10px;">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="border-radius: 20%;" width="120" height="120"/> 
-      </a> 
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding=10px;">
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" style="border-radius: 20%;" width="120" height="120"/> 
-      </a> 
-    </td>
-    <td align="center" style="padding=10px;">
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" style="border-radius: 20%;" width="120" height="120"/> 
-      </a> 
-    </td>
-    <td align="center" style="padding=10px;">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" style="border-radius: 20%;" width="120" height="120"/> 
-      </a> 
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
     </td>
   </tr>
 </table>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arif-mirza&show_icons=true&locale=en&layout=compact" alt="arif-mirza" /></p>
 
