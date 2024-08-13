@@ -38,9 +38,9 @@
     </td>
     <!-- 2 -->
     <td align="left">
-      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/express-js.png" alt="Express.js" style="border-radius: 20%;" width="80" height="80"/>
-      <img src="https://raw.githubusercontent.com/Ahmadjajja/Ahmadjajja/main/Images/node-js.webp" alt="Nodejs" style="border-radius: 20%;" width="80" height="80"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="border-radius: 20%;" width="40" height="40"/>       
+      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/express-js.png" alt="Express.js" style="border-radius: 20%;" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/Ahmadjajja/Ahmadjajja/main/Images/node-js.webp" alt="Nodejs" style="border-radius: 20%;" width="40" height="40"/>
+      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/mongo-db.png" alt="mongodb" style="border-radius: 20%;" width="40" height="40"/>       
     </td>
     <!-- 3 -->
     <td align="left">
@@ -49,7 +49,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"style="border-radius: 20%;" width="40" height="40"/>
     </td> 
     <!-- 4 -->
-     <td align="left">
+    <td align="left">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
@@ -57,20 +57,30 @@
       <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/Github.png" alt="Github"  style="border-radius: 20%" width="40" height="40"/>
       <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/postman.png" alt="Postman"  style="border-radius: 20%" width="40" height="40"/>
       <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/DSA.jpg" alt="OOP"  style="border-radius: 20%"width="40" height="40"/>
-      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/DSA.jpg" alt="DSA"  style="border-radius: 20%" width="40" height="40"/>
       <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/oop.png" alt="OOP"  style="border-radius: 20%" width="40" height="40"/>
     </td>
 
   </tr>
 </table>
 
+<br>
 
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-arif-mirza-1185362b8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- 2 -->
+  <a href="https://arifmirza.netlify.app/" target = "_blank">
+    <img src="https://camo.githubusercontent.com/c28b55df179822eefbf8535b93eaa733c951590463fdcebf430a39f8a5fe15d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d61686d61646a616a6a612e636f6d2d3334323341363f7374796c653d666c6174266c6f676f3d476f6f676c652d4368726f6d65266c6f676f436f6c6f723d7768697465" alt="website" />
+  </a>
 
+  <!-- 3 -->
+  <a href="mailto:arifmirza3332@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-
-
-
-
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arif-mirza&show_icons=true&locale=en&layout=compact" alt="arif-mirza" /></p>
 
