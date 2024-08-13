@@ -39,8 +39,8 @@
     <!-- 2 -->
     <td align="left">
       <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/express-js.png" alt="Express.js" style="border-radius: 20%;" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/Ahmadjajja/Ahmadjajja/main/Images/node-js.webp" alt="Nodejs" style="border-radius: 20%;" width="40" height="40"/>
-      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/mongo-db.png" alt="mongodb" style="border-radius: 20%;" width="40" height="40"/>       
+      <img src="https://raw.githubusercontent.com/Ahmadjajja/Ahmadjajja/main/Images/node-js.webp" alt="Nodejs" style="border-radius: 20%;" width="60" height="60"/>
+      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/mongo-db.png" alt="mongodb" style="border-radius: 20%;" width="60" height="60"/>       
     </td>
     <!-- 3 -->
     <td align="left">
@@ -72,7 +72,9 @@
   </a>
   <!-- 2 -->
   <a href="https://arifmirza.netlify.app/" target = "_blank">
-    <img src="https://camo.githubusercontent.com/c28b55df179822eefbf8535b93eaa733c951590463fdcebf430a39f8a5fe15d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d61686d61646a616a6a612e636f6d2d3334323341363f7374796c653d666c6174266c6f676f3d476f6f676c652d4368726f6d65266c6f676f436f6c6f723d7768697465" alt="website" />
+   <a href="https://arifmirza.netlify.app/" target = "_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website" />
+  </a>
   </a>
 
   <!-- 3 -->
