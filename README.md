@@ -82,10 +82,10 @@
   <!-- 4 -->
   
   <!-- 5 -->
-  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100046615396855" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="https://www.facebook.com/profile.php?id=100046615396855" />
+  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100046615396855" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="https://www.facebook.com/profile.php?id=100046615396855" />
   </a>
   <!-- 6 -->
-  <a href="https://instagram.com/arifmirza3332" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="arifmirza3332" /></a>
+  <a href="https://instagram.com/arifmirza3332" target="blank"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="arifmirza3332" /></a>
   <!-- 7 -->
   
 </p>
