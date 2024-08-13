@@ -49,16 +49,16 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"style="border-radius: 20%;" width="40" height="40"/>
     </td> 
     <!-- 4 -->
-    <td align="left">
+     <td align="left">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/Github.png" alt="Github"  style="border-radius: 20%" width="80" height="80"/>
-      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/postman.png" alt="Postman"  style="border-radius: 20%" width="80" height="80"/>
-      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/DSA.jpg" alt="OOP"  style="border-radius: 20%" width="80" height="80"/>
-      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/DSA.jpg" alt="DSA"  style="border-radius: 20%" width="80" height="80"/>
-      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/oop.png" alt="OOP"  style="border-radius: 20%" width="80" height="80"/>
+      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/Github.png" alt="Github"  style="border-radius: 20%" width="40" height="40"/>
+      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/postman.png" alt="Postman"  style="border-radius: 20%" width="40" height="40"/>
+      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/DSA.jpg" alt="OOP"  style="border-radius: 20%"width="40" height="40"/>
+      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/DSA.jpg" alt="DSA"  style="border-radius: 20%" width="40" height="40"/>
+      <img src="https://github.com/Ahmadjajja/Ahmadjajja/blob/main/Images/oop.png" alt="OOP"  style="border-radius: 20%" width="40" height="40"/>
     </td>
 
   </tr>
